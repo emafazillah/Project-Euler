@@ -1,6 +1,6 @@
 package difficulty005;
 
-public class MultiplesOf3And5 {
+public class Prob001MultiplesOf3And5 {
 	
 	public static void main(String[] args) {
 		int count = 3;

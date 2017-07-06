@@ -1,6 +1,6 @@
 package difficulty005;
 
-public class LargestPrimeFactor {
+public class Prob003LargestPrimeFactor {
 	
 	public static void main(String[] args) {
 		long input = 600851475143L;

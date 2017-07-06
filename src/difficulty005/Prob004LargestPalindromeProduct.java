@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class LargestPalindromeProduct {
+public class Prob004LargestPalindromeProduct {
 	
 	public static void main(String[] args) {
 		int max = 999;
